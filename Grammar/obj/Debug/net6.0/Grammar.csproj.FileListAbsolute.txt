@@ -1,0 +1,15 @@
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\bin\Debug\net6.0\Grammar.deps.json
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\bin\Debug\net6.0\Grammar.dll
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\bin\Debug\net6.0\Grammar.pdb
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\obj\Debug\net6.0\Grammar.csproj.AssemblyReference.cache
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\obj\Debug\net6.0\Grammar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\obj\Debug\net6.0\Grammar.AssemblyInfoInputs.cache
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\obj\Debug\net6.0\Grammar.AssemblyInfo.cs
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\obj\Debug\net6.0\Grammar.csproj.CoreCompileInputs.cache
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\obj\Debug\net6.0\Grammar.csproj.CopyComplete
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\obj\Debug\net6.0\Grammar.dll
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\obj\Debug\net6.0\refint\Grammar.dll
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\obj\Debug\net6.0\Grammar.pdb
+C:\Users\Артём\RiderProjects\ConsoleApp3\Grammar\obj\Debug\net6.0\ref\Grammar.dll
